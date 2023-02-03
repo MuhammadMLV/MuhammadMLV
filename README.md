@@ -1,6 +1,6 @@
 ## Hi there👋 My name is Muhammad and I'm Python backend developer.
 
-### Languages and Tools: Python/DRF/SQL/Git/Unittest/Pycharm/HTML5/CSS
+### Languages and Tools: Python/DRF/SQL/Git/Unittest/Pycharm/Postman/HTML5/CSS
 <div align="center">
   <p>Contact me
   <div id="badges">
