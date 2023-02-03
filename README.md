@@ -1,7 +1,7 @@
-# Hi there👋 My name is Muhammad and I'm Python backend developer.
+## Hi there👋 My name is Muhammad and I'm Python backend developer.
 ---
 <div align="center">
-  ### Contact me
+  <p>Contact me
   <div id="badges">
     <a href="https://t.me/MuhammadMlv_it">
       <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
