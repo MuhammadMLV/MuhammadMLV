@@ -4,7 +4,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 #### Python, Django, Django REST framework, SQL, Git, Unittest, Pycharm, Postman, HTML5, CSS
 
-### :calling: Contact me
+### :calling: Contact me :
 <div align="center">
   <div id="badges">
     <a href="https://t.me/MuhammadMlv_it">
