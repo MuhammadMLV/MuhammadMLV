@@ -4,9 +4,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 #### Python, Django, Django REST framework, SQL, Git, Unittest, Pycharm, Postman, HTML5, CSS
 
-### 
+### :calling: Contact me
 <div align="center">
-  <p>Contact me
   <div id="badges">
     <a href="https://t.me/MuhammadMlv_it">
       <img src="https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
