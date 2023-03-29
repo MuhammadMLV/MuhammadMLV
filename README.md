@@ -2,7 +2,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-#### Python, Django, Django REST framework, SQL, Git, Unittest, Pycharm, Postman, HTML5, CSS
+#### Python, Django, Django REST framework, Docker, SQL, Git, Unittest, Pycharm, Postman, HTML5, CSS
 
 ### :calling: Contact me :
 <div align="center">
